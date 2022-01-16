@@ -1,4 +1,4 @@
-package com.harshsengar.todo;
+package com.harshsengar;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
